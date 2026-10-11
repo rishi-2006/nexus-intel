@@ -1,6 +1,5 @@
 # NEXUS INTEL
 ## AI-Powered Criminal Network Analysis System
-### Problem Statement ID: 26189
 
 > **Compliance & Ethical Policy Notice:**  
 > NEXUS INTEL is an investigative decision-support and intelligence analysis platform. The system does **not** automatically determine guilt, declare individuals criminals, or make autonomous enforcement decisions. All analytical signals and AI inferences require verification by authorized human investigators. All pre-seeded and imported data consists strictly of synthetic and anonymized records.
